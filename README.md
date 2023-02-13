@@ -15,5 +15,5 @@ Data source:
 ### Publsihed Articles:
 * [Epidemiology of COVID-19 in Tehran, Iran: A Cohort Study of Clinical Profile, Risk Factors, and Outcomes](https://doi.org/10.1155/2022/2350063)
 * [Generalizable machine learning approach for COVID-19 mortality risk prediction using on-admission clinical and laboratory features](https://doi.org/10.1038/s41598-023-28943-z)
-** Preprint: [COVID-19 Mortality Risk Prediction using Clinical and Laboratory Examination:Machine Learning Approach for Implementation](https://doi.org/10.21203/rs.3.rs-2152771/v1)
-** Github Repo:
+- Preprint: [COVID-19 Mortality Risk Prediction using Clinical and Laboratory Examination:Machine Learning Approach for Implementation](https://doi.org/10.21203/rs.3.rs-2152771/v1)
+- Github Repo:
