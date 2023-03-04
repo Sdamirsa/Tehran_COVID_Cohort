@@ -1,3 +1,6 @@
+#this code will extract all available labratories for patients (previous code will extract data on the defined labratories on defined day-from-admission)
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pylab as plt
