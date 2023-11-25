@@ -1,1 +1,1 @@
-
+This is the data used for the study entitled "Comparative Analysis of COVID-19 Pneumonia in Pregnant Versus Non-Pregnant Women: Radiologic and Clinical Perspectives." In this project, we looked into the radiologic, laboratory, and clinical differences of COVID-19 in pregnant women. We used a previously collected dataset of ~7000 patients to match non-pregnant women with pregnant counterparts.
